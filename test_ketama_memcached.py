@@ -1,7 +1,7 @@
 import random
 import string
 import logging
-from ketama_memcached import MemcacheClient
+from ketama_new_memcached import MemcacheClient
 
 
 path_logs = ""
